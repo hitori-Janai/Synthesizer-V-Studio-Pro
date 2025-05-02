@@ -1,5 +1,5 @@
 git lfs install
 git lfs track "*.zip"
-git lfs track "*.mp3"
+git lfs track "*.mp4"
 
 
